@@ -1,0 +1,7 @@
+font-family: myFirstFont;
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(OPTIEngraversOldEnglish.otf);
+  }
+  
