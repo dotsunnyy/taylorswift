@@ -3,6 +3,11 @@ font-family: myFirstFont;
 color: black;
 }
 
+a {
+color: black;
+
+}
+
 @font-face {
     font-family: myFirstFont;
     src: url(OPTIEngraversOldEnglish.otf);
